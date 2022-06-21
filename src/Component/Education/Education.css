@@ -1,0 +1,16 @@
+.btn_shadow{
+    box-shadow: 2px 3px 5px #af1d55 , 4px -4px 8px #f1a5eb;
+    margin: 10px;
+    color: black;
+    background-color: #af1d55;
+    
+}
+.btn_shadow:hover{
+    color: #af1d55;
+    background-color: #f1a5eb;
+    box-shadow: 2px 2px 2px palevioletred;
+}
+
+.Education{
+    padding-top: 10%;
+}

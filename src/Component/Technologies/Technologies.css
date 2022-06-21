@@ -1,0 +1,63 @@
+.Technologies{
+    padding-top: 6%;
+}
+h1{
+    color: rgb(182, 12, 97);
+    font-size: 40px;
+}
+.myProgress {
+    width: 100%;
+
+    background-color: rgba(245, 17, 127, 0.63);
+    box-shadow: 6px 6px 6px rgb(240, 212, 231);
+    margin-bottom: 20px;
+  }
+  
+.myProgress .html {
+    width:90%;
+    height: 10px;
+    background-color: rgb(97, 16, 57);
+  }
+  .myProgress .css {
+    width:80%;
+    height: 10px;
+    background-color: rgb(97, 16, 57);
+  }
+
+  .myProgress .bootstrap {
+    width:80%;
+    height: 10px;
+    background-color: rgb(97, 16, 57);
+  }
+  .myProgress .js {
+    width:75%;
+    height: 10px;
+    background-color: rgb(97, 16, 57);
+  }
+  .myProgress .ts {
+    width:50%;
+    height: 10px;
+    background-color: rgb(97, 16, 57);
+  }
+
+  .myProgress .react {
+    width:45%;
+    height: 10px;
+    background-color: rgb(97, 16, 57);
+  }
+  .myProgress .angular {
+    width:40%;
+    height: 10px;
+    background-color: rgb(97, 16, 57);
+  }
+
+  .myProgress .vs {
+    width:70%;
+    height: 10px;
+    background-color: rgb(97, 16, 57);
+  }
+  .myProgress .github {
+    width:60%;
+    height: 10px;
+    background-color: rgb(97, 16, 57);
+  }

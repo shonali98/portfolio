@@ -1,0 +1,118 @@
+.btn_shadow{
+    box-shadow: 2px 3px 5px #af1d55 , 4px -4px 8px #f1a5eb;
+    margin: 10px;
+    color: black;
+    
+}
+
+
+
+.hero{
+    position: relative;
+}
+.hero h3{
+    font-weight: 100;
+    letter-spacing: 2px;
+}
+.hero h1{
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.hero h1 span{
+    color: rgb(238, 45, 103);
+}
+
+.hero h2{
+    font-size: 50px;
+    font-weight: bold;
+    color: #970e43;
+}
+
+.hero h2 span{
+    color: black;
+}
+.hero p{
+    color: rgb(39, 24, 32);
+    font-size: 18px;
+    line-height: 30px;
+    margin-top: 30px;
+}
+
+.hero_btn{
+    margin-top: 20%;
+}
+
+.hero_btn h4{
+    font-weight: 500;
+    letter-spacing: 2px;
+    color: rgb(131, 9, 70);
+    font-size: 15px;
+}
+
+.hero_btn button{
+    margin-right: 30px;
+}
+.hero_btn i{
+    font-size: 20px;
+}
+
+.hero_btn button img{
+    width: 20px;
+    height: 20px;
+}
+
+.hero_btn .btn_shadow:hover{
+    outline-offset: 4px;
+    color:white;
+}
+
+.hero  .instagram:hover{
+    background-image: 
+    radial-gradient(#fdf497 0%,#fdf497 5%,
+    #fd5949 45%, #d6249f 60%,
+    #285AEB 90%);
+    outline-color: #a02d76;
+}
+.hero  .linkedin:hover{
+    /* background-color: #0077b5;
+    outline-color: #0077b5; */
+    background-image: 
+    radial-gradient(#0077b5 0%, #0077b5 5%,
+    #0077b5 45%, #0077b5 60%,
+    #0077b5 90%);
+    outline-color: #0077b5;
+}
+.hero  .github:hover{
+    
+    background-image: 
+    radial-gradient(black 0%, black 5%,
+    black 45%, black 60%,
+    black 90%);
+    outline-color: black;
+}
+.hero .left{
+    margin-right: 10%;
+}
+
+.hero .right{
+    width: 40%;
+    position: relative;
+}
+.hero .right_img{
+    background: linear-gradient(145deg,white ,white);
+    /* box-shadow: 4px 4px 8px rgb(238, 81, 178),4px -4px 8px white; */
+    border-radius: 10px;
+    /* height: 580px; */
+    /* width: 580px; */
+    margin-top: 20%;
+}
+
+.hero .right_img img{
+    position: absolute;
+    top: 0;
+    right: 10%;
+    width: 480px;
+
+    
+}
