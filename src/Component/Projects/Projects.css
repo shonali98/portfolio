@@ -1,16 +1,28 @@
+
+.projects {
+    padding-top:5% ;
+}
 .projects .box{
     padding: 50px;
     background-color: pink;
+    text-align: center;
+    padding-bottom: 80px;
 
 }
 
 .projects .box h2{
     margin: 20px 0 20px 0;
+    
 }
 
 .projects .box p{
     word-spacing: 2px;
     transition: 0.5s;
+}
+.projects .box img{
+    width: 100%;
+    height: 70%;
+    
 }
 
 .projects .box i{

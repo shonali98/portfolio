@@ -28,16 +28,24 @@ const Home = () => {
                     <div className='col_1'>
                         <h4>Find With Me</h4>
                         <div className='button'>
-                            <button className='btn_shadow instagram'>
+
+                        <a href='https://www.instagram.com/shonu_neth/' target='_blank'>
+                            <button  className='btn_shadow instagram'>
                                 <i className='fab fa-instagram'></i>
                             </button>
+                        </a>
+
+                        <a href='https://www.linkedin.com/in/shonali-nethmika-4984a6207/' target='_blank'>
                             <button className='btn_shadow linkedin'>
                                 <i className='fab fa-linkedin-in'></i>
                             </button>
+                        </a>
+
+                        <a href='https://github.com/shonali98/' target='_blank'>
                             <button className='btn_shadow github'>
                                 <i className='fab fa-github'></i>
                             </button>
-                           
+                        </a>   
                         </div>
                     </div>
                     <div className='col_1'>

@@ -12,7 +12,7 @@ function Technologies() {
                 
             </div>
 
-            <div className="Technologies basic ">
+            <div className=" basic ">
                 <h1>Basic</h1>
                 <br/>
                 <h2>HTML</h2>
