@@ -56,11 +56,11 @@ button{
   color: black;
 }
 .btn_shadow{
-  background: linear-gradient(145deg,white ,white);
-  box-shadow: 4px 4px 8px white,4px -4px 8px white;
+  background: linear-gradient(145deg,rgb(206, 50, 167) ,rgb(241, 209, 232));
+  box-shadow: 4px 4px 8px white,4px -4px 8px rgb(190, 21, 120);
 }
 .btn_shadow:hover{
-  background-color: rgb(228, 59, 157);
+  background-color: rgb(238, 143, 198);
   color:white;
   transform: translateY(-10px);
 }
@@ -98,8 +98,15 @@ h1{
 
 .grid{
   display: grid;
-  grid-template-columns: repeat()3,1fr;
+  grid-template-columns: repeat(3,1fr);
   grid-gap:35px;
+}
+p{
+  color: rgb(43, 3, 18);
+}
+
+.text-center{
+  text-align: center;
 }
 
 .demo{

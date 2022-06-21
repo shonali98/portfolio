@@ -1,0 +1,38 @@
+.projects .box{
+    padding: 50px;
+    background-color: pink;
+
+}
+
+.projects .box h2{
+    margin: 20px 0 20px 0;
+}
+
+.projects .box p{
+    word-spacing: 2px;
+    transition: 0.5s;
+}
+
+.projects .box i{
+    font-size: 30px;
+    margin-top: 2opx;
+    transition: 0.5s;
+    opacity: 0;
+}
+.projects  .box:hover{
+    color: rgb(90, 5, 65);
+    
+    
+}
+
+.projects .box:hover i{
+    opacity: 1;
+}
+
+ .projects .grid{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap:35px;
+  }
+
+
