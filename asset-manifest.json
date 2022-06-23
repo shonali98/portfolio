@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.ddfad1f6.css",
+    "main.js": "/portfolio/static/js/main.8d653946.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/hero.JPEG": "/portfolio/static/media/hero.d66bceaa84d696c05d1a.JPEG",
+    "static/media/ArtOfTravel.png": "/portfolio/static/media/ArtOfTravel.a21ef3f7664396c708ec.png",
+    "static/media/shopping.png": "/portfolio/static/media/shopping.7fdd03dc6885ba68a6b4.png",
+    "static/media/contact.png": "/portfolio/static/media/contact.2e515f10ef7f74670450.png",
+    "static/media/Quiz.png": "/portfolio/static/media/Quiz.bda4ce143f602fa2ddb9.png",
+    "static/media/skill3.png": "/portfolio/static/media/skill3.ef28a7569ef18dd72579.png",
+    "static/media/award.png": "/portfolio/static/media/award.077b4d626270454aafee.png",
+    "static/media/certificate.png": "/portfolio/static/media/certificate.36c788cc4fdd5353a0f7.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.6b5db7e2a9ecbe09e805.png",
+    "static/media/skill1.png": "/portfolio/static/media/skill1.0f8b10c5fc9bc7805278.png",
+    "static/media/degree.png": "/portfolio/static/media/degree.cce73df9a339d7b50c3c.png",
+    "index.html": "/portfolio/index.html",
+    "main.ddfad1f6.css.map": "/portfolio/static/css/main.ddfad1f6.css.map",
+    "main.8d653946.js.map": "/portfolio/static/js/main.8d653946.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddfad1f6.css",
+    "static/js/main.8d653946.js"
+  ]
+}
