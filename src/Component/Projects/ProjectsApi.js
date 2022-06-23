@@ -1,6 +1,6 @@
 const data=[
     {
-    id:0,
+   id:0,
     image:"",
     title:"Art Of Travel",
     desc:"This is a Travelling details website",
