@@ -15,11 +15,12 @@
 .projects .box h2{
     margin: 20px 0 20px 0;
     color: palevioletred;
+
     
 }
 
 .projects .box p{
-    word-spacing: 2px;
+    word-spacing: 1px;
     transition: 0.5s;
     text-align: justify;
 }
